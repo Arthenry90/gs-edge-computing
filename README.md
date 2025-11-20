@@ -76,7 +76,7 @@ O monitor exibe:
 
 ---
 
-##  Como usar
+## Como usar
 
 1. Monte o circuito conforme as conexões acima  
 2. Carregue o código no Arduino  

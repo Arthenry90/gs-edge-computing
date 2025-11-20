@@ -5,7 +5,7 @@ Além disso, quando a distância fica muito curta, o sistema simula uma requisi�
 
 ---
 
-## 🧰 Componentes Utilizados
+## Componentes Utilizados
 
 - Arduino Uno
 - Sensor Ultrassônico (HC-SR04)
@@ -14,7 +14,7 @@ Além disso, quando a distância fica muito curta, o sistema simula uma requisi�
 
 ---
 
-## 📌 Conexões
+## Conexões
 
 ### Sensor Ultrassônico
 
@@ -31,7 +31,7 @@ Além disso, quando a distância fica muito curta, o sistema simula uma requisi�
 
 ---
 
-## ⚙️ Funcionamento do Sistema
+## Funcionamento do Sistema
 
 ### 1. Leitura do Sensor
 
@@ -58,7 +58,7 @@ Esse valor é convertido em distância (cm).
 
 ---
 
-## 🌐 Simulação de HTTP POST
+## Simulação de HTTP POST
 
 Quando a distância é **menor que 10 cm**, é impresso no Serial Monitor uma requisição simulada:
 
@@ -66,7 +66,7 @@ Isso simula uma comunicação de alerta mesmo sem internet ou Wi-Fi.
 
 ---
 
-## 🖥️ Monitor Serial
+## Monitor Serial
 
 O monitor exibe:
 
@@ -76,7 +76,7 @@ O monitor exibe:
 
 ---
 
-## ▶️ Como usar
+##  Como usar
 
 1. Monte o circuito conforme as conexões acima  
 2. Carregue o código no Arduino  
